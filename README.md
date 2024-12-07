@@ -41,6 +41,8 @@ Future Enhancements
 Integrating additional datasets such as age, industry, and year-over-year growth of billionaires' wealth.
 Providing more granular analysis by country or sector-specific wealth breakdowns.
 Enhancing the Power BI dashboard with additional filters for deeper insights.
+![image](https://github.com/user-attachments/assets/4a0edeeb-4bb9-481a-aa78-19ee84c65e5a)
+
 
 **Conclusion**
 ** **
